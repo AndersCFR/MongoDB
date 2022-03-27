@@ -34,7 +34,7 @@ Cada documento se identifica por su _id
 
 ### Usando Mongo Compass
 
-Permite visualizar las bases de datos, sus datos operaciones CRUD de los objetos. Schem permite analizar y presentar un pequeño resumen de los datos.
+Permite visualizar las bases de datos, sus datos operaciones CRUD de los objetos. Schema permite analizar y presentar un pequeño resumen de los datos. No olvidar que el schema es solo tomado a partir de una muestra. Este schema me permite hacer una análisis rápido de los datos, puedo usar los filtros en formato {clave: valor}
 
 ### Tipos de datos
 
@@ -46,3 +46,6 @@ Permite visualizar las bases de datos, sus datos operaciones CRUD de los objetos
 6. Vectores (array)
 7. Sistemas de coordenadas espaciales.
 
+
+Ejemplo de visualización en Schema
+![schema](/imgs/schema.PNG)
